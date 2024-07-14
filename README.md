@@ -1,9 +1,10 @@
 # Модель Сегментації (Airbus Ship Detection Challenge)
 
 Посилання на Kaggle:
-EDA - https://www.kaggle.com/code/dlbkvv/exploratory-data-analysis
-model-training - https://www.kaggle.com/code/dlbkvv/model-training
-model-testing - https://www.kaggle.com/code/dlbkvv/model-testing
+  1. EDA - https://www.kaggle.com/code/dlbkvv/exploratory-data-analysis
+  2. model-training - https://www.kaggle.com/code/dlbkvv/model-training
+  3. model-testing - https://www.kaggle.com/code/dlbkvv/model-testing
+
 
 Файл EDA - попередній аналіз даних
 
